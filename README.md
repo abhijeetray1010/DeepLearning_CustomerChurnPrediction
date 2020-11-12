@@ -2,6 +2,8 @@
 ### Aim
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
 
+This dataset is a bit imbalanced, so we are also gonna learn how to handle imbalanced dataset by using few strategies that will help to improve model performance (improve f1-score)
+
 ### Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
